@@ -5,7 +5,7 @@
 
 const char* ssid       = "XXXXXXXXX"; // SSID
 const char* password   = "XXXXXXXXX"; // Password
- const char* ntpServer =  "ntp.jst.mfeed.ad.jp";
+ const char* ntpServer =  "abc.cde";
 
 const char* saddr = "XXX.XXX.XXX.XXX"; //taeget PC address
 
